@@ -382,7 +382,7 @@ export function budget(query){
 export function createSurvey(state) {
     const { username,usertype,photo1f,photo1s,photo2f,photo2s,photo3f,photo3s,photo4f,photo4s,photo5f,photo5s,photo6f,
         photo6s,photo7f,photo7s,photo8f,photo8s,photo9f,photo9s } = state;
-    const endpoint = BASE_URL + '/submit-survey';
+    const endpoint = BASE_URL + `/submit-survey`;
     console.log(endpoint)
     fetch(endpoint, { method: "POST", headers: {
             "Content-Type": "application/json" },
