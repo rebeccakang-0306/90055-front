@@ -11,6 +11,7 @@
   "author": "Digiceipt",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^4.11.4",
     "@material-ui/lab": "^4.0.0-alpha.57",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
@@ -38,7 +39,7 @@
     "type": "module"
   },
   "devDependencies": {
-    "@material-ui/core": "^4.11.3",
+    "@material-ui/core": "^4.11.4",
     "axios": "^0.21.1",
     "handlebars": "^4.5.0",
     "react-router-dom": "^5.2.0",
