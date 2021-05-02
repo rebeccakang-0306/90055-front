@@ -6,9 +6,9 @@ import {setUsername, setID, getID, Userlogin,setUsertype} from "./components/Cur
 
 
 // TODO - update this to be your url
-const BASE_URL = "https://serene-cliffs-86077.herokuapp.com/";
+const BASE_URL = "https://serene-cliffs-86077.herokuapp.com";
  //const BASE_URL = "http://localhost:8000";
-const Font_URL = "https://serene-cliffs-86077.herokuapp.com/";
+const Font_URL = "https://serene-cliffs-86077.herokuapp.com";
 
 
 export function getUsers() {
