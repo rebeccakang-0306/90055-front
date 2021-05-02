@@ -24,8 +24,8 @@ export default class Login extends Component {
         }
         return (
             <div className={"home-body"}>
-                <h1> <b>Check out Digiceipt —— it's free!</b></h1>
-                <h2> Digiceipts helps users to better manage their receipts and spending online</h2>
+                <h1> <b>Check out Animal Shapes —— it's free!</b></h1>
+                <h2> Animal Shapes helps users to gather information about dogs</h2>
                 <Container fluid className={"home-container"}>
                     <Row className={"mx-auto"}>
                         <Col sm={6} className={"home-header"}>
