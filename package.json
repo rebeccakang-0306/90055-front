@@ -11,6 +11,10 @@
   "author": "Digiceipt",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
+    "handlebars": "^4.5.0",
+    "react-router-dom": "^5.2.0",
+    "styled-table-component": "^4.0.0",
     "@material-ui/core": "^4.11.4",
     "@material-ui/lab": "^4.0.0-alpha.57",
     "babel-core": "^6.26.3",
