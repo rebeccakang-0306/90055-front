@@ -9,7 +9,7 @@
   },
   "scripts": {
   "start": "react-scripts start",
-  "build": "react-scripts build --dest ../backend/public"
+  "build": "react-scripts build --dest ../backend/build"
 },
 
   "author": "Digiceipt",
